@@ -1,0 +1,13 @@
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\bin\Debug\ListBox_Tutorial.exe.config
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\bin\Debug\ListBox_Tutorial.exe
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\bin\Debug\ListBox_Tutorial.pdb
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.Form1.resources
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.Properties.Resources.resources
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.csproj.GenerateResource.cache
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.exe
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.pdb
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\bin\Debug\Siticone.Desktop.UI.dll
+D:\Adobe\Comp 1\VS Saves\ListBox_Tutorial\obj\Debug\ListBox_Tutorial.csproj.CopyComplete
